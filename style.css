@@ -1,0 +1,75 @@
+.inputstyle_01 {
+	font-size: 11px;
+	color: #757575;
+	font-family: tahoma;
+	padding-left:3px;
+	border: 1px solid #ffffff;
+	background-image: url(../images/uuauto/field_bk.gif);
+	background-repeat: no-repeat;
+}
+.inputstyle_02 {
+	font-size: 11px;
+	color: #757575;
+	font-family: tahoma;
+	padding-left:3px;
+	border: 1px solid #ffffff;
+	background-image: url(../images/uuauto/field_bl.gif);
+	background-repeat: no-repeat;
+}
+.inputstyle_03 {
+	font-family:tahoma;
+	font-size:11px;
+	border:1px solid #E0E0E0;
+	background:#FFFFFF;
+	color:#636363;
+}
+.id_table {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	vertical-align: middle;
+}
+.id_table_text {
+	font-family: tahoma;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: lighter;
+	color: #FFFFFF;
+	padding: 3px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 3px;
+	background-color: #666666;
+}
+.big_char {
+	font-family: tahoma;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.auto_link {
+	color: #FFCC00;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.auto_link a {
+	color: #ff6000;
+	text-decoration:none; }
+
+.td_t {
+	FONT-SIZE: 10px; BACKGROUND: #eaeaea; HEIGHT: 30px
+}
+.new_cars_descr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10px; PADDING-BOTTOM: 8px; COLOR: gray; PADDING-TOP: 8px
+}
+.new_cars_price {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 3px; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; COLOR: white; PADDING-TOP: 0px; BACKGROUND-COLOR: #cc0000
+}
+
